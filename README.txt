@@ -1,0 +1,1 @@
+Ezt a programot a sanfranciscoboljottem.com tutorial-ja alapján készítettem.(csak a kinézeten változtattam, valamint az enterre reagálást)
